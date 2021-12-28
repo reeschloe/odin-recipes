@@ -8,3 +8,18 @@ img {
     width: 400px;
 }
 
+ul {
+    background-color: lightyellow;
+}
+
+h1 {
+    color: maroon;
+}
+
+ol {
+    background-color: mintcream;
+}
+
+p {
+    background-color: mistyrose;
+}
